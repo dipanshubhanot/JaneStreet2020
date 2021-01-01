@@ -5,6 +5,6 @@
 
 Competetion : [Kaggle](https://www.kaggle.com/c/jane-street-market-prediction)  
 
-Data Set: [Data for the Competition](https://www.kaggle.com/c/jane-street-market-prediction/data) [^1]
+Data Set: [Data for the Competition](https://www.kaggle.com/c/jane-street-market-prediction/data)
 
 ---
